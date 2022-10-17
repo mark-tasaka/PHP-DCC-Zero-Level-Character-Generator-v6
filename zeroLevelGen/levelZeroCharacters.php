@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Dungeon Crawl Classics Greenleaf Adventures Character Generator</title>
+<title>Dungeon Crawl Classics Character Generator</title>
  
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     
 	<meta charset="UTF-8">
-	<meta name="description" content="Dungeon Crawl Classics Greenleaf Adventures Character Generator. Goodman Games.">
+	<meta name="description" content="Dungeon Crawl Classics Character Generator. Goodman Games.">
 	<meta name="keywords" content="Dungeon Crawl Classics, Jim Wampler, Goodman Games,HTML5,CSS,JavaScript">
-	<meta name="author" content="Mark Tasaka 2021">
+	<meta name="author" content="Mark Tasaka 2022">
 		
+    <link rel="icon" href="../images/favicon/icon.png" type="image/png" sizes="16x16"> 
 
 	<link rel="stylesheet" type="text/css" href="css/dcc_zero_characters.css">
     
