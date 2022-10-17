@@ -4,6 +4,12 @@ The sixth iteration of the Dungeon Crawl Classics (DCC) Zero-Level Character Gen
 
 --------------------
 
+Update 1.01: 2022-10-16
+
+Updates to levelZeroCharacters.php.  New character sheet added (dcc_zero_character_sheet.png),
+
+
+
 Initial commit: 2022-09-13
 
 The initial commit for the Dungeon Crawl Classics Zero-Level Character Generator Version 6.
